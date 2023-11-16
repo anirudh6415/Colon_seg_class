@@ -13,7 +13,7 @@ This repository presents a comprehensive analysis of colonoscopy images using th
 
 ## Results
 ### Model Trained From Scratch
-<img src="CVC_Results/CVC-ClinicDB_Pretrain_230.png" alt="Model Trained From Scratch">\
+<img src="CVC_Results/CVC-ClinicDB_Pretrain_230.png" alt="Model Trained From Scratch">
 
 ### Model Trained using Pretrained weights
 <img src="CVC_Results/CVC-ClinicDB_scratch_330.png" alt="Model Trained using Pretrained weights">
