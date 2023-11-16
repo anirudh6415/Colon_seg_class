@@ -13,8 +13,8 @@ This repository presents a comprehensive analysis of colonoscopy images using th
 
 ## Results
 ### Model Trained From Scratch
-<img src="CVC_Results/CVC-ClinicDB_Pretrain_230.png" alt="Results" width="800" height="750">\
+<img src="CVC_Results/CVC-ClinicDB_Pretrain_230.png" alt="Model Trained From Scratch" width="900" height="800">\
 
 ### Model Trained using Pretrained weights
-<img src="CVC_Results/CVC-ClinicDB_scratch_330.png" alt="Table of Average Dice Coefficient" width="400" height="350">
+<img src="CVC_Results/CVC-ClinicDB_scratch_330.png" alt="Model Trained using Pretrained weights" width="900" height="800">
 
