@@ -12,9 +12,9 @@ This repository presents a comprehensive analysis of colonoscopy images using th
    - Generated precise masks highlighting the colon structures, aiding in detailed analysis and pathology detection.
 
 ## Results
-![Cluster 1](CVC Results/CVC-ClinicDB_scratch_330.png)
+![Cluster 1](CVC_Results/CVC-ClinicDB_scratch_330.png)
 *Model Trained From Scratch*
 
-![Cluster 2](CVC Results/CVC-ClinicDB_Pretrain_230.png)
+![Cluster 2](CVC_Results/CVC-ClinicDB_Pretrain_230.png)
 *Model Trained using Pretrained weights*
 
